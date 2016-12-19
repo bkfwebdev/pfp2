@@ -1,0 +1,42 @@
+#pfptitle {
+background-color:black;
+background-image:url("http://sifubryant.tripod.com/primefractalphilosophy/galaxy.jpg");
+color:white;
+padding: 30px;
+margin: 30px;
+}
+#bookstoread{
+	margin:30px;
+	color:white;
+	
+}
+button{
+	margin:30px;
+	
+}
+body {
+background:linear-gradient(black,darkblue);
+}
+p {
+	color:white;
+}
+ul{
+	color:white;
+}
+li{
+	color:white;
+}
+#Eternal-Spring-Method {
+	margin:30px;
+}
+#howtouseit{
+	margin:30px;
+}
+
+a:link {
+	color:white;
+}
+a:visited {
+	color:green;
+	
+}

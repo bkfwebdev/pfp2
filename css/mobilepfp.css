@@ -1,0 +1,30 @@
+#prototype-panel #prototype-panel2 , li {
+						font-family:impact;
+						text-align:center;
+						border-style:solid;
+						border-color:red;
+						border-radius:10px;
+						margin:auto;
+						width:60%;
+}
+
+	
+
+body {
+    margin: auto;
+    width: 80%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+	color:white;
+	background-color:blue;
+	text-align:center;
+}
+h1 {
+	color:black;
+	font-size:25px;
+}
+iframe {
+	width:70%;
+	height:auto;
+	margin:30%;
+}

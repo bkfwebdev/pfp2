@@ -1,0 +1,81 @@
+/* pfp css */
+body{
+	background-color:black;
+	background-image:url("galaxy.jpg");
+}
+
+p{
+	color:white;
+}
+	
+#big-title {
+	font-family: 'Roboto Slab', serif;
+	color:black;
+	font-size:60px;
+	margin:0 0 0 0;
+}
+
+#big-title{
+	transition:color 5s;
+}
+
+#little-title {
+	font-family: 'Roboto Slab', serif;
+	color:black;
+	margin: 0 0 0 0;
+}
+
+#little-title {
+	transition:color 10s;
+	
+}
+
+#TEXT-WIDGET {
+	width:40%;
+	height:40%;
+	background-color:Black;
+	margin:auto;
+	BORDER-RADIUS:15PX;
+	border-style:solid;
+	border-color:white;
+	overflow:scroll;
+}
+
+#TEXT-WIDGET p{
+	padding:10px;
+}	
+	
+#DIAGRAM-WIDGET iframe{
+	width:40%;
+	height:40%;
+	background-color:Black;
+	margin:auto;
+	BORDER-RADIUS:15PX;
+	border-style:solid;
+	border-color:white;
+	
+}
+
+ul li {
+	background-color:black;
+	font-family:cambria;
+	float:left;
+	color:white;
+	margin:10px;
+	border-radius:15px;
+	border-style:solid;
+	padding:5px
+}
+
+#prototype-panel ul li:hover{
+	box-shadow:3px 3px 10px yellow;
+}
+
+#prototype-panel2 ul li:hover{
+	box-shadow:3px 3px 10px yellow;
+}
+
+#prototype-panel2{
+	margin-left:355px;
+}
+

@@ -1,0 +1,88 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.row-footer{
+    background-color: #AfAfAf;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+iframe {
+width:500px;
+height:300px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(galaxy.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+#prototype-panel {
+	margin-top:30px;
+	margin-left:8%;
+	margin-right:8%;
+    margin-bottom:2%;
+	
+}
+#text-widget {
+	margin-top:10%;
+}
+#pfpnav li{
+	list-style-type:none;
+	display:inline;
+}
+
+#pfpnav {
+	border:0px;
+}
+
+#DIAGRAM-WIDGET {
+	
+	
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+#panel2 {
+    float: right;
+    margin-right: 6%;
+	 }
+	
+#panel2 li {
+	display:inline;
+	list-style-type:none;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    padding: 3px;
+	
+}
+
+
+
+
+ 

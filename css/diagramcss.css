@@ -1,0 +1,28 @@
+#toptitle {
+background-color:black;
+background-image:url("galaxy.jpg");
+color:white;
+padding: 30px;
+margin: 30px;
+}
+#text-blurb{
+	margin:40px;
+	color:white;
+	
+}
+button{
+	margin:30px;
+	
+}
+body {
+background:linear-gradient(black,darkblue);
+}
+p {
+	color:white;
+}
+ul{
+	color:white;
+}
+li{
+	color:white;
+}
